@@ -1,6 +1,21 @@
 # Live Project
 https://cryptograph-9eb28.web.app/
 
+## Description
+
+Cryptograph is a Fullstack crypto currency website. It fetches data from Coingecko API.
+
+A user can Sign up on Cryptograph and add the coins to their watch list.
+
+### Technology Used
+
+- React
+- React Router
+- Tailwind CSS
+- Firebase
+- Axios
+- Coingecko API
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
